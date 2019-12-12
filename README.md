@@ -33,9 +33,9 @@ Click Save
 The DNI will update automatically and your device should now be operational.
 Now read the documentation link below for more info on the features and operation of the Device Handler..\
 
-You can find the documentation here: 
+You can find the documentation here: https://github.com/GaryMilne/Tasmota-RGBCCT-DH-for-SmartThings-Classic-with-MQTT/blob/master/Smartthings%20Classic%20Device%20Handler%20for%20Tasmota%20RGBCCT.pdf
 
-You can find the code here: 
+You can find the code here: https://github.com/GaryMilne/Tasmota-RGBCCT-DH-for-SmartThings-Classic-with-MQTT/blob/master/Tasmota%20RGBCCT%20Driver%20for%20SmartThings%20wMQTT%20V1.1.1.groovy
 
 You can find a video walkthrough demonstrating the capabilities of the device handler here: https://youtu.be/hC1wcNZveCo
 
